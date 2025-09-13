@@ -17,3 +17,6 @@ Saved the model after partial training (16 epochs).
 However, I saved the intermediate results and metrics to compare with the baseline.
 
 👉 Final step: Compared the baseline vs. LSTM model performance using accuracy, precision, recall, and F1-score.
+
+First notebook: https://colab.research.google.com/github/Ishika-Pattnaik/Reviews-sentiment-analysis/blob/main/ML_Task02.ipynb
+distilBERT Notebook link: https://colab.research.google.com/drive/1_1VGBuA1iuatB0w03qYDqVUDGMPzd-Nv?usp=sharing
